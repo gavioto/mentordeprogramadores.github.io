@@ -1,5 +1,5 @@
 ---
-title: "¡Bienvenido a mi web!"
+title: "¡Hola!"
 published: true
 ---
 
