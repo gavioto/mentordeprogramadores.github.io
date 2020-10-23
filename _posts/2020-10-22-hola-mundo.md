@@ -1,13 +1,13 @@
 ---
-title: "Welcome to Jekyll!"
-published: false
+title: "¡Bienvenido a mi web!"
+published: true
 ---
 
-**Hello world**, this is my first Jekyll blog post.
+**Hola mundo**, este es mi primer y original mensaje, cómo no podía ser de otro modo.
 
-I hope you like it!
+¡Espero que te guste!
 
-# Highlighter
+# ¿que lenguaje prefieres aprender hoy?
 ## Ruby
 ```ruby
 def show
@@ -69,7 +69,7 @@ body {
 ## Yaml
 ```yaml
 ---
-one: Mark McGwire
-two: Sammy Sosa
-three: Ken Griffey
+one: Mentor de programacion
+two: Alumnos
+three: Con rumbo fijo
 ```
