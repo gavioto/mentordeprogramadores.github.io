@@ -32,6 +32,6 @@ social_media:
   # unsplash: your_username
   # vk: your_username
   website: https://www.youtube.com/channel/UCTwhsU_rVod3JpdV2durdDg
-  youtube: mentordeprogramacion
+  # youtube: mentordeprogramacion
 
 theme: jekyll-theme-minimal
