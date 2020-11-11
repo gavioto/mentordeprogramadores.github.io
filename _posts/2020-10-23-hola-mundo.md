@@ -4,15 +4,18 @@ published: true
 ---
 
 **Hola mundo**, este es mi primer y original mensaje, cómo no podía ser de otro modo.
-Si has llegado a ésta web porque quieres aprender a programar y no entiendes nada, no te preocupes porque muy pronto lo podrás entender. 
+Si has llegado a ésta web porque quieres aprender a programar y los fragmentos de código que hay a continuación te suenan a chino... no te preocupes porque muy pronto lo podrás entender. 
 
-Contacta con nosotros y solicita mas información. 
+Si por otro lado, ya tienes unos conocimientos básicos, pero quieres mejorar tus capaidades, ser mas eficiente, hacer código mantenible, conocer las últimas novedades del mundillo o aprender a desenvolverte por ti mismo.. estás en el mejor lugar para ello.
+
+Contacta con nosotros y solicita mas información sin compromiso.
 
 Nuestro método probado y efectivo te hará aprender rápido, siempre que pongas de tu parte. 
 
-¡Espero que te guste!
+¡Esperamos que te guste que te guste!
 
 # ¿que lenguaje prefieres aprender hoy?
+
 ## Ruby
 ```ruby
 def show
