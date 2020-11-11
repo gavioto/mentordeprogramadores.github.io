@@ -12,7 +12,7 @@ Contacta con nosotros y solicita mas información sin compromiso.
 
 Nuestro método probado y efectivo te hará aprender rápido, siempre que pongas de tu parte. 
 
-¡Esperamos que te guste que te guste!
+¡Nos vemos!
 
 # ¿que lenguaje prefieres aprender hoy?
 
